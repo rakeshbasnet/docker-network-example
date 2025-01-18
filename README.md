@@ -10,7 +10,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone 
+   git clone https://github.com/rakeshbasnet/docker-network-example.git
    cd docker-network-example
 
 2. **Copy .env.example File to Create .env File**:
